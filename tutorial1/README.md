@@ -8,3 +8,6 @@ Control a ROS2 camera node remotely using a Qt application. It's designed for de
   -  `/qt-app`: Here you'll find the Qt GUI application. This application provides the functionality to start/stop the video streaming and to display the video feed.
 
 ## Computation graph
+
+![Computation graph](./res/rosgraph.png)
+
